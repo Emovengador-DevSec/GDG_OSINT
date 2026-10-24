@@ -1,0 +1,9 @@
+{
+  "name": "gdg-osint",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "audit": "node src/analyzer.js",
+    "build": "node src/build.js"
+  }
+}
